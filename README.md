@@ -1,3 +1,8 @@
+## Dibuat dengan sepenuh hati mengikuti tutorial dari channel Yt Programming Di Rumahrafif
+https://www.youtube.com/watch?v=3CbGQEO_d0M
+
+# - 25 Mei 2023 -
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
